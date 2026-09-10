@@ -8,4 +8,4 @@ Notes and methodologies from my offensive security learning journey.
 
 
 ## Portswigger 
-- [OS Command Injection](portswigger/os command injection simple case)
+- [OS Command Injection](portswigger/os-command-injection-simple-case)
