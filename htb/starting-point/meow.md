@@ -108,5 +108,5 @@ The machine was exploitable because it combined an unencrypted remote-access ser
 
 ---
 
-*Written by Adil Haneef. *Written by Adil Haneef |· [Hack The Box](https://app.hackthebox.com/profile/019f98bb-4497-71d9-bb45-d8da415bd4db) · [LinkedIn](https://linkedin.com/in/adil-haneef-263521343)*
+*Written by Adil Haneef. *Written by Adil Haneef |· [Hack The Box](https://profile.hackthebox.com/profile/019f98bb-4497-71d9-bb45-d8da415bd4db?utm_medium=copy_url) · [LinkedIn](https://linkedin.com/in/adil-haneef-263521343)*
 *Attacks were performed only on authorised lab environments.*Attacks were performed only on authorised lab environments.*
