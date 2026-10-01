@@ -5,7 +5,7 @@ Notes and methodologies from my offensive security learning journey.
 
 ## HackTheBox
 - [Cap](htb/cap/) - Linux capability abuse(cap_setuid)
-- [meow](hyb/starting-point/meow.md) - Telnet, weak credentials
+- [meow](htb/starting-point/meow.md) - Telnet, weak credentials
 
 
 ## Portswigger 
