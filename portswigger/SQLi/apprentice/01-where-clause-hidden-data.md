@@ -1,6 +1,6 @@
 # SQLi Lab 1: WHERE clause, hidden data retrieval
 
-**Platform:** PortSwigger Web Security Academy | **Level:** Apprentice | **Status:** Solved (TODO: date)
+**Platform:** PortSwigger Web Security Academy | **Level:** Apprentice | **Status:** Solved 2026/11/25
 
 - **Vuln:** SQL injection in the product category filter
 - **Injection point:** `category` parameter filter?category=Accessories'+OR+1=1--
